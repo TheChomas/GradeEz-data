@@ -1,0 +1,126 @@
+[
+    {
+        "title": "Mary",
+        "passage": "Mary had a beautiful garden with roses, tulips and carnations. She liked to work in her garden at the weekend. One Saturday morning she was digging in the garden when she found an old box in the ground. She took it in her hands and looked at it carefully. It was a yellow, old wooden box. She was very happy because she thought she found a treasure. She took the box into the kitchen and cleaned it with some paper. Then, she took a knife and tried to open it but it was really hard. She tried again until she opened it. In the box were some old pictures of her mother when she was a little girl. Mary wasn't Sad. Those pictures were a real treasure for her!",
+        "questions": [
+            "What flowers did Mary have in her garden?",
+            "When did she like to work in her garden?",
+            "What did she find in the ground one day?",
+            "Was the box new and green?",
+            "Why was Mary happy?",
+            "How did she open the box?",
+            "What was in the box?",
+            "Was Mary sad?"
+        ],
+        "answers": [
+            "roses, tulips and carnations",
+            "at the weekend",
+            "an old box",
+            "It was a yellow, old wooden box",
+            "She was very happy",
+            "She took the box into the kitchen and cleaned it with some paper. Then, she took a knife and tried to open it but it was really hard. She tried again until she opened it.",
+            "some old pictures of her mother when she was a little girl",
+            "Mary wasn't Sad"
+        ]
+    },
+    {
+        "title": "Super Bowl",
+        "passage": "The Panthers finished the regular season with a 15\u20131 record, and quarterback Cam Newton was named the NFL Most Valuable Player (MVP). They defeated the Arizona Cardinals 49\u201315 in the NFC Championship Game and advanced to their second Super Bowl appearance since the franchise was founded in 1995. The Broncos finished the regular season with a 12\u20134 record, and denied the New England Patriots a chance to defend their title from Super Bowl XLIX by defeating them 20\u201318 in the AFC Championship Game. They joined the Patriots, Dallas Cowboys, and Pittsburgh Steelers as one of four teams that have made eight appearances in the Super Bowl.",
+        "questions": [
+            "Which Carolina Panthers player was named Most Valuable Player?",
+            "How many appearances have the Denver Broncos made in the Super Bowl?",
+            "What year was the Carolina Panthers franchise founded?",
+            "What team did the Panthers defeat?",
+            "Who did the Broncos prevent from going to the Super Bowl?",
+            "Who did the Panthers beat in the NFC Championship Game?",
+            "Who lost to the Broncos in the AFC Championship?",
+            "Who were the defending Super Bowl champions?"
+        ],
+        "answers": [
+            "Cam Newton",
+            "eight appearances",
+            "1995",
+            "Arizona Cardinals",
+            "New England Patriots",
+            "Arizona Cardinals",
+            "New England Patriots",
+            "New England Patriots"
+        ]
+    },
+    {
+        "title": "Where Does Chocolate Come From?",
+        "passage": "Chocolate that we eat starts with cacao trees, also called cocoa trees. Cacao trees grow in a warm climate like Central and South America, Africa or parts of Asia. This tree produces a seed pod and cocoa beans are the seeds inside the pod. Cocoa beans eventually become chocolate. At the chocolate factory, the beans are cleaned and then they are roasted for up to 2 hours in large rotating drums. The cocoa beans tumble in these drums like clothes in a clothes dryer. As they dry, the beans turn to a rich brown color. After roasting, the shell of the cocoa bean is removed and the inside of the cocoa beans are then ground by heavy steel plates. This grinding process forms a chocolate liquid. When chocolate liquid is molded and cooled, the product is called unsweetened or bitter chocolate. Sometimes the chocolate liquid is made into dry cocoa powder. When cocoa is made, oil from the cocoa bean is pressed out and is known as cocoa butter. Add sugar, cocoa butter, and vanilla flavoring to unsweetened chocolate and you have a chocolate candy. If you also add milk, the product is milk chocolate. Next the milk chocolate mixture goes through heating and cooling cycles before being molded. Finally it is molded into milk chocolate candy bars or it is made into ten-pound blocks of chocolate that are sold to other candy bar manufacturers.",
+        "questions": [
+            "Where does chocolate come from?",
+            "How long are the beans roasted in the chocolate factory?",
+            "Where do cacao trees usually grow?",
+            "What is cocoa butter?",
+            "What is a bitter chocolate?",
+            "After what process the shell of the cocoa bean is removed?"
+        ],
+        "answers": [
+            "cocoa trees",
+            "2 hours",
+            "warm climate like Central and South America",
+            "oil from the cocoa bean is pressed out",
+            "chocolate liquid is molded and cooled",
+            "After roasting"
+        ]
+    },
+    {
+        "title": "Where Does Chocolate Come From?",
+        "passage": "Nimbus clouds are very dark and always bring rain. They often signal that a bad storm is coming, and thunder and lightning often accompanies them. If you see nimbus clouds, you should seek shelter right away. Cirrus clouds are the white and wispy clouds that you see moving very high across a blue sky. They look like horse tails or a cotton ball that has been pulled into strands. They are so thin because they are made of ice particles instead of water droplets.",
+        "questions": [
+            "What are clouds made of?",
+            "Which clouds are very dark in colour?",
+            "Which clouds are puffy and white?",
+            "Which clouds are accompanied by thunder?",
+            "Which clouds are composed of ice particles?",
+            "How do Cirrus clouds look like?"
+        ],
+        "answers": [
+            "ice particles",
+            "Nimbus clouds",
+            "Cirrus clouds",
+            "Nimbus clouds",
+            "Cirrus clouds",
+            "horse tails or a cotton ball that has been pulled into strands"
+        ]
+    },
+    {
+        "title": "University of Notre Dame",
+        "passage": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.",
+        "questions": [
+            "To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?",
+            "What is in front of the Notre Dame Main Building?",
+            "The Basilica of the Sacred heart at Notre Dame is beside to which structure?",
+            "What is the Grotto at Notre Dame?",
+            "What sits on top of the Main Building at Notre Dame?"
+        ],
+        "answers": [
+            "Saint Bernadette Soubirous",
+            "a copper statue of Christ",
+            "the Main Building",
+            "a Marian place of prayer and reflection",
+            "a golden statue of the Virgin Mary"
+        ]
+    },
+    {
+        "title": "Stan Lee",
+        "passage": "Stan Lee was born on December 28th in 1922 in New York City. His real last name was Lieber, and his parents had come to the U.S. from Romania in search of a better life. Part of Lieber’s childhood took place during the Great Depression, and Stan’s family, which included a younger brother named Larry, struggled to make ends meet. Stan got a job as an office assistant for Timely Comics when he was just 17 years old. By the early 1940s, he had worked himself up to the position of Interim Editor. Around the same time, Lee also served in the Army during World War II. He served in the U.S. as a writer and illustrator. By the early 1960s, Timely Comics had changed its name to Marvel Comics, and they were in competition with D.C. Comics, whose Justice League of America had become famous. Lee’s boss asked him to create a rival series for Marvel Comics. Lee was up for the challenge, but he wanted his superheroes to be different. Together with the artist Jack Kirby, Lee co-created The Fantastic Four. More now-famous Marvel characters followed including the Hulk, Spiderman, Doctor Strange, Daredevil, and the X-Men. According to Stan Lee, “a really great comic-book story is every bit as creative and important as a great story done in any other form of the media.”",
+        "questions": [
+            "Where were Stan’s parents from",
+            "Why did Stan’s family struggle?",
+            "What was the first job Stan had with Timey Comics?",
+            "What did Stan do in the Army?",
+            "What did Timely Comics change its name to?"
+        ],
+        "answers": [
+            "Romania",
+            "the Great Depression",
+            "office assistant",
+            "served in the U.S. as a writer and illustrator",
+            "Marvel Comics"
+        ]
+    }
+]
